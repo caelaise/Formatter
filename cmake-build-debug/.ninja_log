@@ -1,0 +1,5 @@
+# ninja log v5
+0	58	1648230159397668469	build.ninja	1ef940967b7efb69
+4	459	1648225180630245344	CMakeFiles/Formatter.dir/src/utility.cpp.o	ce5a2d1f7528d737
+4	440	1648228396704147969	CMakeFiles/Formatter.dir/src/table.cpp.o	d7f18053d260b6c0
+441	458	1648228396727992000	libFormatter.a	9ececae4b88bbdd

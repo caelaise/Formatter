@@ -1,0 +1,3 @@
+/Users/lirelum/Library/CloudStorage/OneDrive-JeffersonCommunityCollege/CIS 116/Formatter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/lirelum/Library/CloudStorage/OneDrive-JeffersonCommunityCollege/CIS 116/Formatter/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lirelum/Library/CloudStorage/OneDrive-JeffersonCommunityCollege/CIS 116/Formatter/cmake-build-debug/CMakeFiles/Formatter.dir
